@@ -1,4 +1,3 @@
-import React from "react";
 import { Filter, Github, Zap, Users, Search, Shield } from "lucide-react";
 
 const Features = () => {
