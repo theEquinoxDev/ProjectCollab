@@ -1,4 +1,3 @@
-import React from "react";
 import { Link } from "react-router-dom";
 import ProblemSection from "../components/ui/ProblemSection";
 import HowItWorks from "../components/ui/HowItWorks";
