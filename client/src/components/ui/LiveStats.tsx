@@ -1,5 +1,3 @@
-import React from "react";
-
 const LiveStats = () => {
   return (
     <section className="pt-8 pb-16 px-4">
