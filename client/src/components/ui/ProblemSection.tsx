@@ -1,4 +1,3 @@
-import React from "react";
 import { MessageCircle, Users } from "lucide-react";
 
 const ProblemSection = () => {
