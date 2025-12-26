@@ -1,5 +1,3 @@
-import React from "react";
-
 const TechStackMarquee = () => {
   const technologies = [
     { name: 'React', color: '#61DAFB' },
