@@ -15,8 +15,8 @@ const Footer = () => {
   const socialLinks = [
     { icon: Github, href: "#", label: "GitHub" },
     { icon: Twitter, href: "#", label: "Twitter" },
-    { icon: Linkedin, href: "#", label: "LinkedIn" },
-    { icon: Mail, href: "mailto:hello@projectcollab.com", label: "Email" },
+    { icon: Linkedin, href: "", label: "LinkedIn" },
+    { icon: Mail, href: "mailto:equinoxdev32@gmail.com", label: "Email" },
   ];
 
   return (
