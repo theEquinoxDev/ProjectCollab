@@ -76,9 +76,8 @@ const HeroSection = () => {
 
        
         <h1 className="font-extrabold text-3xl sm:text-4xl md:text-5xl lg:text-6xl leading-tight mb-6 tracking-tight">
-          <span className="relative z-10">Stop Spamming Groups.</span>
-          <br className="hidden sm:block" />
-          <span className="text-transparent bg-clip-text bg-gradient-to-tr from-white via-[#53aaff] to-[#337aff]">
+          <span className="relative z-10 block">Stop Spamming Groups.</span>
+          <span className="block text-transparent bg-clip-text bg-gradient-to-tr from-white via-[#53aaff] to-[#337aff]">
           Start Shipping Code.
           </span>
         </h1>
