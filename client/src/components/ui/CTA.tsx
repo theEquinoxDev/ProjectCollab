@@ -34,7 +34,7 @@ const CTA = () => {
 
           <Link
             to="/projects"
-            className="px-8 py-4 border theme-border theme-text font-medium rounded-lg hover:bg-black/5 dark:hover:bg-white/10 hover:border-blue-500 transition-all duration-300"
+            className="px-8 py-4 border theme-border theme-text font-medium rounded-lg hover:bg-black/5 dark:hover:bg-white/10 hover:border-blue-500 transition-all duration-300 flex items-center justify-center gap-2"
           >
             Browse Projects
           </Link>
