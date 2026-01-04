@@ -14,11 +14,8 @@ ProjectCollab helps students:
 - Post projects or join teams based on skills and interests
 - Quickly connect with teammates via WhatsApp instantly after acceptance
 
-## Video Demo
-
-<video src="client/public/ProjectCollab-Video.mp4" controls width="600" poster="client/public/projectcollab.png">
-Sorry, your browser does not support embedded videos.
-</video>
+## 🎬 Demo Video
+**Watch the full demo video:** [ProjectCollab Demo Video](client/public/ProjectCollab-Video.mp4)
 
 ---
 
