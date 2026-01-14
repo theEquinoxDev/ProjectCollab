@@ -13,10 +13,7 @@ ProjectCollab helps students:
 - Build detailed campus developer profiles (skills, year, GitHub, WhatsApp)
 - Post projects or join teams based on skills and interests
 - Quickly connect with teammates via WhatsApp instantly after acceptance
-
-## 🎬 Demo Video
-**Watch the full demo video:** [ProjectCollab Demo Video](client/public/ProjectCollab-Video.mp4)
-
+- 
 ---
 
 ## Live Website
